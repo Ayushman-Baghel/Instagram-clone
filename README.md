@@ -82,8 +82,8 @@ instaclone-main/
 
 ## Technologies
 
-- **Frontend**: React, CSS, HTML
-- **Backend**: Node.js, Express
+- **Frontend**: React, Redux, Tailwind CSS, HTML
+- **Backend**: Node.js, Express, Socket.IO
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
 
